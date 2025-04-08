@@ -18,7 +18,7 @@
 <a href="https://www.tindie.com/stores/mind/?ref=offsite_badges&utm_source=sellers_xyzroe&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" height="120"></a>
 
 ### DIY
-- [iBOM page](./files/iBOM.html) 🌍
+- [BOM csv](./files/BOM.csv) 🌍
 - [Gerber zip](./files/Gerber.zip) 🗂
 
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>
