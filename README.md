@@ -4,11 +4,11 @@
 Unleash the future of wireless connectivity with **ESP32 C6 D1** — a compact, feature-packed dev board crafted in the iconic Wemos D1 form factor, designed for developers craving speed, efficiency, and versatility. 
 Built on Espressif’s cutting-edge ESP32-C6, this board supercharges your IoT projects.
 
-✅ Wemos D1 Form Factor – Seamless compatibility with existing shields, sensors, and accessories.
-✅ RISC-V Core – High performance (160 MHz) meets energy efficiency for battery-powered brilliance.
-✅ 10 Programmable GPIOs – SPI, I2C, UART, PWM, and ADC pins for endless hardware hacks. + UART pins
-✅ USB-C PROG + JTAG + Onboard WS2812 LED – Plug, play, and debug with modern convenience.
-✅ Wi-Fi 6 + Bluetooth 5 LE + 802.15.4 Zigbee/Thread
+✅ Wemos D1 Form Factor – Seamless compatibility with existing shields, sensors, and accessories.  
+✅ RISC-V Core – High performance (160 MHz) meets energy efficiency for battery-powered brilliance.  
+✅ 10 GPIOs – SPI, I2C, UART, PWM, and ADC pins for endless hardware hacks. + UART pins  
+✅ USB-C (PROG + JTAG) + Onboard WS2812 LED – Plug, play, and debug with modern convenience.  
+✅ Wi-Fi 6 + Bluetooth 5 LE + 802.15.4 Zigbee/Thread  
 
 Perfect for smart homes, industrial automation, wearables, or bleeding-edge prototypes. Code in Arduino, PlatformIO, or ESP-IDF—your creativity, supercharged.
 
