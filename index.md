@@ -20,15 +20,22 @@ Build faster. Connect smarter. Future-proof your tech. 🚀
 For makers, hackers, and pros who refuse to settle.  
   
 ### Overview
+#### Renders
 <div align="center">
-<img width="48%" src="https://raw.githubusercontent.com/xyzroe/ESP32_C6_D1/main/images/top.png">
-<img width="48%" src="https://raw.githubusercontent.com/xyzroe/ESP32_C6_D1/main/images/bottom.png">
+<img width="48%" src="./images/top.png">
+<img width="48%" src="./images/bottom.png">
+</div>
+
+#### Photos
+<div align="center">
+<img width="48%" src="./images/top.jpg">
+<img width="48%" src="./images/bottom.jpg">
 </div>
 
 
 ### Schematic
 [PDF](./files/Schematic.pdf)  
-![Schematic](https://raw.githubusercontent.com/xyzroe/ESP32_C6_D1/main/images/Schematic.png) 
+![Schematic](./images/Schematic.png) 
 
 ### Where to buy?
 Not yet 🚀
