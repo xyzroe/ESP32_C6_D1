@@ -38,7 +38,7 @@ For makers, hackers, and pros who refuse to settle.
 ![Schematic](./images/Schematic.png) 
 
 ### Where to buy?
-<a href="https://www.elecrow.com/esp32-c6-d1.html"><img width="25%" src="https://www.elecrow.com/media/logo/stores/1/ELECROW_LOGO.png"></a>
+<a href="https://www.elecrow.com/esp32-c6-d1.html"><img width="50%" src="https://www.elecrow.com/media/logo/stores/1/ELECROW_LOGO.png"></a>![image](https://github.com/user-attachments/assets/89718575-88f2-4686-b371-c1f2ae969dc4)
 
 
 ### DIY
