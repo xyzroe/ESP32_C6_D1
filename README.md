@@ -10,8 +10,6 @@ Built on Espressif’s cutting-edge ESP32-C6, this board supercharges your IoT p
 ✅ USB-C (PROG + JTAG) + Onboard WS2812 LED – Plug, play, and debug with modern convenience.  
 ✅ Wi-Fi 6 + Bluetooth 5 LE + 802.15.4 Zigbee/Thread  
   
-  
-  
 Perfect for smart homes, industrial automation, or bleeding-edge prototypes. Code in Arduino, PlatformIO, or ESP-IDF—your creativity, supercharged.  
   
 Build faster. Connect smarter. Future-proof your tech. 🚀  
@@ -29,10 +27,6 @@ For makers, hackers, and pros who refuse to settle.
 <img width="48%" src="./images/top.jpg">
 <img width="48%" src="./images/bottom.jpg">
 </div>
-
-https://github.com/user-attachments/assets/9b871911-9e49-4cb8-ab3b-2ddeeefc021e
-
-
 
 
 ### Schematic
