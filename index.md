@@ -33,6 +33,8 @@ For makers, hackers, and pros who refuse to settle.
 </div>
   
   
+<br>
+  
 <video src="https://private-user-images.githubusercontent.com/6440415/439916894-9b871911-9e49-4cb8-ab3b-2ddeeefc021e.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDYxODk5NDgsIm5iZiI6MTc0NjE4OTY0OCwicGF0aCI6Ii82NDQwNDE1LzQzOTkxNjg5NC05Yjg3MTkxMS05ZTQ5LTRjYjgtYWIzYi0yZGRlZWVmYzAyMWUubXA0P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDUwMiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA1MDJUMTI0MDQ4WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9YjViYzljN2Q5YzZmNGRiNDZmMjE0YWZkMDc0NGU3YmFiYzUwNGIwYTZkYzE3OWY1ZDM0NjEzMjQzZDQwNDRkNyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.j-YdilJHWfRRDFUMAV46hhBD1NxavYX5OhkxAX_-pDs" data-canonical-src="https://private-user-images.githubusercontent.com/6440415/439916894-9b871911-9e49-4cb8-ab3b-2ddeeefc021e.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDYxODk5NDgsIm5iZiI6MTc0NjE4OTY0OCwicGF0aCI6Ii82NDQwNDE1LzQzOTkxNjg5NC05Yjg3MTkxMS05ZTQ5LTRjYjgtYWIzYi0yZGRlZWVmYzAyMWUubXA0P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDUwMiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA1MDJUMTI0MDQ4WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9YjViYzljN2Q5YzZmNGRiNDZmMjE0YWZkMDc0NGU3YmFiYzUwNGIwYTZkYzE3OWY1ZDM0NjEzMjQzZDQwNDRkNyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.j-YdilJHWfRRDFUMAV46hhBD1NxavYX5OhkxAX_-pDs" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
 </video>
 
@@ -42,8 +44,13 @@ For makers, hackers, and pros who refuse to settle.
 ![Schematic](./images/Schematic.png) 
 
 ### Where to buy?
-<a href="https://www.elecrow.com/esp32-c6-d1.html" target="_blank"><img width="50%" src="https://www.elecrow.com/media/logo/stores/1/ELECROW_LOGO.png"></a>
-
+<div align="center">
+  <a href="https://lectronz.com/products/esp32-c6-d1" target="_blank"><img width="230" src="https://lectronz-images.b-cdn.net/static/badges/i-sell-on-lectronz-large.png" alt="I sell on Lectronz"/></a> 
+  <br>
+  <a href="https://www.elecrow.com/esp32-c6-d1.html" target="_blank"><img width="230" src="https://www.elecrow.com/media/logo/stores/1/ELECROW_LOGO.png" alt="I sell on Elecrow"/></a> 
+  <br>
+  <a href="https://www.tindie.com/products/mind/esp32-c6-d1/" target="_blank"><img width="230" src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie"/></a> 
+</div>
 
 ### DIY
 - [BOM csv](./files/BOM.csv) 🌍
@@ -55,3 +62,4 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 [![badges](https://badges.aleen42.com/src/buymeacoffee.svg)](https://www.buymeacoffee.com/xyzroe) 
 [![badges](https://badges.aleen42.com/src/github.svg)](https://github.com/sponsors/xyzroe)
 [![badges](https://badges.aleen42.com/src/paypal.svg)](http://paypal.me/xyzroe) 
+
