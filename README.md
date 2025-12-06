@@ -18,14 +18,14 @@ For makers, hackers, and pros who refuse to settle.
 ### Overview
 #### Renders
 <div align="center">
-<img width="48%" src="./images/top.png">
-<img width="48%" src="./images/bottom.png">
+<img width="48%" src="https://raw.githubusercontent.com/xyzroe/ESP32_C6_D1/master/images/top.png">
+<img width="48%" src="https://raw.githubusercontent.com/xyzroe/ESP32_C6_D1/master/images/bottom.png">
 </div>
 
 #### Photos
 <div align="center">
-<img width="48%" src="./images/top.jpg">
-<img width="48%" src="./images/bottom.jpg">
+<img width="48%" src="https://raw.githubusercontent.com/xyzroe/ESP32_C6_D1/master/images/top.jpg">
+<img width="48%" src="https://raw.githubusercontent.com/xyzroe/ESP32_C6_D1/master/images/bottom.jpg">
 </div>
   
   
@@ -36,8 +36,8 @@ For makers, hackers, and pros who refuse to settle.
 
 
 ### Schematic
-[PDF](./files/Schematic.pdf)  
-![Schematic](./images/Schematic.png) 
+[PDF](https://raw.githubusercontent.com/xyzroe/ESP32_C6_D1/master/files/Schematic.pdf)  
+![Schematic](https://raw.githubusercontent.com/xyzroe/ESP32_C6_D1/master/images/Schematic.png) 
 
 ### Where to buy?
 <div align="center">
@@ -49,8 +49,8 @@ For makers, hackers, and pros who refuse to settle.
 </div>
 
 ### DIY
-- [BOM csv](./files/BOM.csv) 🌍
-- [Gerber zip](./files/Gerber.zip) 🗂
+- [BOM csv](https://raw.githubusercontent.com/xyzroe/ESP32_C6_D1/master/files/BOM.csv) 🌍
+- [Gerber zip](https://raw.githubusercontent.com/xyzroe/ESP32_C6_D1/master/files/Gerber.zip) 🗂
 
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>
 
